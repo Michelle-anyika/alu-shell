@@ -1,2 +1,3 @@
 #!/bin/bash
-echo -e "C\nC++\nGo"
+sort | uniq -u
+
